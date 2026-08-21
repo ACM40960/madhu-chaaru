@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=24012096&assignment_repo_type=AssignmentRepo)
 <div align="center">
   <h1>Adversarial Robustness Testing & Trust Safety Pipeline<br>for Identity Document Verification</h1>
 </div>
@@ -317,7 +318,7 @@ Run in this order. Each notebook saves its outputs to disk before the next one r
 
 | Order | Notebook | What it does |
 |---|---|---|
-| 1 | `Local_Windows_Setup.ipynb.ipynb` | Download MIDV-500 + MIDV-2019, extract 7,000 frames, EDA |
+| 1 | `Local_Windows_Setup.ipynb` | Download MIDV-500 + MIDV-2019, extract 7,000 frames, EDA |
 | 2 | `Baseline_Classifier.ipynb` | Train EfficientNet-B0 baseline on real frames only |
 | 3 | `Perturbation_Generator.ipynb` | Generate 21,000 augmented frames, threshold baseline |
 | 4 | `Week4_Hardened_Classifier.ipynb` | Train hardened EfficientNet + ResNet18, GradCAM |
@@ -407,4 +408,4 @@ Model checkpoints saved to `C:/adversarial_doc_project/checkpoints/`:
 
 ---
 
-*This project was built for module ACM40960 (Mathematical Modelling), University College Dublin, supervised by Dr. Sarp Akcay.*
+*This project was built for module ACM40960 (Mathematical Modelling), University College Dublin. Students: Madhumitha Vaithiyanathan (25203641) and Chaarumathy Mathiyalaghan (25210628). Supervisor: Dr. Sarp Akcay.*
