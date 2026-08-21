@@ -407,4 +407,4 @@ Model checkpoints saved to `C:/adversarial_doc_project/checkpoints/`:
 
 ---
 
-*This project was built for module ACM40960 (Mathematical Modelling), University College Dublin, supervised by Dr. Sarp Akcay. The adversarial robustness framework was extended from Project 13 (Fooling AI with Disguises) into the domain of identity document verification as a novel application.*
+*This project was built for module ACM40960 (Mathematical Modelling), University College Dublin, supervised by Dr. Sarp Akcay.*
